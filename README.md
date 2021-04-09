@@ -20,3 +20,7 @@ To setup this code you will need to complete two parts. Number one is install th
 
 ## Edit Script
 
+**1.** Go to the file called `main-bot.py` and change the meaning of the `driver` variable into the location of the browser driver.
+
+
+And right now that's it!
