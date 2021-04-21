@@ -6,7 +6,7 @@ from login import loginToInstagram
 from getLinks import getInstagramPage
 
 
-driverPath = "C:/Users/youss/Downloads/chromedriver_win32 (1)/chromedriver.exe"
+driverPath = ""
 driver = webdriver.Chrome(driverPath)
 
 sleep(1)
